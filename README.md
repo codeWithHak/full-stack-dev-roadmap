@@ -11,7 +11,7 @@ Welcome to your journey to becoming a proficient full-stack MERN developer! This
   - Module 4: Backend (Node.js, Express, MongoDB) (5 weeks, 33 hours) — Develop APIs and databases.
 - **Outcomes**:
   - Portfolio with 8+ projects (e.g., portfolio site, task app, social API).
-  - Skills for internship contributions (CRUD, auth, responsive UIs).
+  - Skills (CRUD, auth, responsive UIs).
   - GitHub showcasing code and deployments.
 
 ## Prerequisites
