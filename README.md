@@ -17,7 +17,7 @@ Welcome to your journey to becoming a proficient full-stack MERN developer! This
 ## Prerequisites
 - Basic computer literacy and a code editor (e.g., [VS Code](https://code.visualstudio.com/)).
 - GitHub account for version control ([GitHub](https://github.com/)).
-- ~4 hours/day study time alongside internship.
+- ~4 hours/day study time.
 
 ---
 
@@ -325,7 +325,7 @@ Master server-side development with APIs and databases.
 - **Track Progress**: Log completed tasks (e.g., “Built CRUD API”) to stay motivated.
 
 ## Why This Roadmap?
-This roadmap condenses essential MERN skills into ~100 hours, focusing on practical tasks (exercises, projects, practice) to match your peers’ expertise. You’ll build a portfolio that demonstrates front-end finesse, dynamic React apps, and robust APIs, positioning you as a strong developer at your internship and beyond.
+This roadmap condenses essential MERN skills into ~100 hours, focusing on practical tasks (exercises, projects, practice). You’ll build a portfolio that demonstrates front-end finesse, dynamic React apps, and robust APIs, positioning you as a strong developer in the industry.
 
 ---
 
